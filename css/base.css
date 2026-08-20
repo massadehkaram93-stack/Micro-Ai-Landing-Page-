@@ -1,0 +1,37 @@
+* {
+    padding : 0px ;
+    margin: 0px ;
+    box-sizing: border-box;
+    text-decoration: none ;
+    list-style: none ;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale;
+}   
+
+:root {
+    --body-bg: #090A0F ; 
+    --card-bg: #12131C; 
+
+    --card-title : #E2E8F0 ;
+    --card-description : #94A3B8 ;
+    --card-shadow : #4f8dff44 ;
+
+    --pure-text: #94A3B8; 
+    --main-text: white; 
+
+    --li-text : oklch(77.655% 0.00477 215.223) ;
+    --li-text-hover : oklch(84.287% 0.00334 198.678) ;
+
+    --not-active-svg: #6b7280; 
+
+    --btn: #4F8CFF ; 
+    --btn-hover: #3572E6;  
+    --btn-active: #1D59CC;
+
+    --main-shadow: rgba(0, 0, 0, 0.6); 
+
+    --special-card-bg: linear-gradient(135deg, #4F8CFF 0%, #1A3673 100%); 
+    --special-pure-text: #96BBFF;
+
+}
