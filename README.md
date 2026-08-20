@@ -6,7 +6,7 @@ An Landing Page Built White **HTML**, **CSS**, and **Vanilla JavaScript** Respon
 
 # 🎮 Live Demo
 
- https://massadehkaram93-stack.github.io/Note-App/
+https://massadehkaram93-stack.github.io/Micro-Ai-Landing-Page-/
 
 ---
 
